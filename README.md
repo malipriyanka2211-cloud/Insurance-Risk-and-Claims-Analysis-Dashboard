@@ -149,7 +149,7 @@ Analyze claim amounts across:
 
 # 📷 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/malipriyanka2211-cloud/Insurance-Risk-and-Claims-Analysis-Dashboard/blob/main/Insurance%20analysis%20Dashboard.png)
 
 ---
 
@@ -162,4 +162,8 @@ Analyze claim amounts across:
 - Claim amounts vary significantly based on education level and marital status.
 - Male and female policyholders are nearly equal in number.
 
+### 👩‍💻 Created by **Priyanka Mali**
+- M.Sc. Applied Statistics & Informatics
+- Aspiring Data Analyst
+- Skilled in Power BI, SQL, Python, and Excel
 
